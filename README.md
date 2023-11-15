@@ -1,5 +1,5 @@
 # RLCS-2022-2023
-Análises sobre o cenário competitivo de Rocket League na temporada 2022-2023 da RLCS
+Análises sobre o cenário competitivo de Rocket League na temporada 2022-2023 da RLCS.
 Como desenvolver um sistema de avaliação de desempenho individual de jogadores profissionais de Rocket League adequado? 
 Responder essa pergunta é um trabalho complexo, especialmente, devido à dinâmica do jogo que torna difícil mensurar qualidades como trabalho em equipe, leitura de jogo e como o 
 comportamento singular dos indivíduos X e Y em dado dia influencia o desempenho de um jogador específico. Além disso, é necessário se adaptar ao sistema de coleta de dados do jogo e do 
